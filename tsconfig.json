@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "es2015",
+    "moduleResolution": "node",
+    "stripInternal": true,
+    "preserveConstEnums": true,
+    "declaration": true,
+    "removeComments": true,
+    "lib": ["es2015"]
+  }
+}
